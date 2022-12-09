@@ -6,7 +6,7 @@
 
 int main ( void )
 {
-  int n = 5;
+  int n = 5200;
   double (*a)[n][n] = malloc(sizeof * a);
   double (*b)[n][n] = malloc(sizeof * b);
   double (*c)[n][n] = malloc(sizeof * c);
